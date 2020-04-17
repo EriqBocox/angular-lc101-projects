@@ -1,0 +1,12 @@
+.movies{
+    color: coral;
+}
+
+.movies li{
+    font-size: 20px;
+}
+
+.movies h3{
+    text-align: center;
+    text-decoration: underline;
+}

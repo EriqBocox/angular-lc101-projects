@@ -1,11 +1,17 @@
 h3 {
    color: brown;
+   mix-blend-mode: hue;
+   text-decoration: underline;
+   border-width: 3px;
+   border-radius: 10%;
 }
 
 img {
-
+   max-width: 250px;
+   height: auto;
 }
 
 .photos {
    text-align: center;
+   display: inline;
 }

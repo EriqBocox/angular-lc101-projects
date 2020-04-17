@@ -6,10 +6,10 @@ import { Component, OnInit } from '@angular/core';
   styleUrls: ['./fav-photos.component.css']
 })
 export class FavPhotosComponent implements OnInit {
-  photosTitle = 'Photo/Image Section Title Here';
-  image1 = 'https://www.launchcode.org/assets/icons/trophy-95e8cbe9bfda44123422302951deb1c92a237d39052669b8fbfafec00cb4f608.png';
-  image2 = '';
-  image3 = '';
+  photosTitle = 'Subnautica Aquatic Species';
+  image1 = 'https://vignette.wikia.nocookie.net/subnautica/images/e/eb/Reaper_Leviathan_Fauna.png/revision/latest?cb=20191026175551';
+  image2 = 'https://vignette.wikia.nocookie.net/subnautica/images/b/b0/Crabsquid_Fauna.png/revision/latest?cb=20180207022308';
+  image3 = 'https://img.pngio.com/epic-games-account-with-subnautica-game-worth-2499-subnautica-logo-png-1000_840.png';
 
   constructor() { }
 
